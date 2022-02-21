@@ -1,2 +1,2 @@
 # Random-Choice-Picker
-project from 50 Projects in 50 Days
+[here](https://stephaniequintana.github.io/Random-Choice-Picker/)
